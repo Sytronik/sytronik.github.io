@@ -1,26 +1,26 @@
-## About
+# About
 
 **Jeongmin Liu**
 
-M.S. Candidate, Smart Sound Systems Laboratory,
+M.S. Candidate, Smart Sound Systems Laboratory,<br>
 School of Electrical Engineering, Korea Advanced institude of Science and Technology (KAIST)
 
-**Email**: sytronik@gmail.com
+**Email**: <sytronik@gmail.com>
 
-**GitHub**: https://github.com/Sytronik
+**GitHub**: <https://github.com/Sytronik>
 
-### Education
+## Education
 
 
-### Papers
+## Papers
 
-#### Conference Paper
+### Conference Paper
 
 Jeongmin Liu, Byeongho Jo, Jung-Woo Choi, **Dereverberation Based on Deep Neural Networks with Directional Feature from Spherical Microphone Array Recordings**, in Proc. of the 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, September 9-13, 2019. (accepted)
 
 [GitHub Repo](https://github.com/Sytronik/dereverberation-directional-feature)
 
-### Projects
+## Projects
 
 #### End-to-end Multi-channel Speech Dereverberation (진행 중)
 
