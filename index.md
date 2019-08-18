@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Sytronik/sytronik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Jeongmin Liu**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+M.S. Candidate, Smart Sound Systems Laboratory,
+School of Electrical Engineering, Korea Advanced institude of Science and Technology (KAIST)
 
-### Markdown
+**Email**: sytronik@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**GitHub**: https://github.com/Sytronik
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Papers
 
-1. Numbered
-2. List
+#### Conference Paper
 
-**Bold** and _Italic_ and `Code` text
+Jeongmin Liu, Byeongho Jo, Jung-Woo Choi, **Dereverberation Based on Deep Neural Networks with Directional Feature from Spherical Microphone Array Recordings**, in Proc. of the 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, September 9-13, 2019. (accepted)
 
-[Link](url) and ![Image](src)
-```
+[GitHub Repo](https://github.com/Sytronik/dereverberation-directional-feature)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Projects
 
-### Jekyll Themes
+#### End-to-end Multi-channel Speech Dereverberation (진행 중)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sytronik/sytronik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2019년 7월 - 현재
 
-### Support or Contact
+연구의 일환으로 Speech Denoising Wavenet을 사용하여 Multi-channel Speech Dereverberation을 구현함.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[GitHub Repo](https://github.com/Sytronik/denoising-wavenet-pytorch)
+
+#### Music Boundary Detection using Fully Convolutional Neural Networks
+
+*2019년 5월 - 7월*
+
+KAIST “머신러닝의 음악적 응용” 강의 프로젝트로, 음악 내의 서로 다른 테마를 갖는 여러 구간들 사이의 경계를 추정하는 DNN 모델을 제작함. 팀에서 DNN과 관련된 아이디어와 프로그래밍을 맡음.
+
+<!-- Report https://arxiv -->
+[GitHub Repo](https://github.com/Sytronik/music-boundary-detection)
+
+#### 가상현실 드럼
+
+*2017년*
+
+학부 설계과제로 Unity와 Arduino를 이용하여 가상현실에서 드럼을 연주할 수 있는 프로그램을 제작함. 팀에서 프로그래밍의 대부분을 맡음.
+
+[시연영상](https://youtu.be/QXyJwmr9mhQ)
