@@ -2,7 +2,7 @@
 
 **Jeongmin Liu**
 
-M.S. Candidate, Smart Sound Systems Laboratory,<br/>
+M.S. Candidate, Smart Sound Systems Laboratory,  
 School of Electrical Engineering, KAIST.
 
 **Email**: <sytronik@gmail.com>
@@ -11,9 +11,11 @@ School of Electrical Engineering, KAIST.
 
 ## Education
 
-- ME (Candidate) in Electrical Engineering, Korea Advanced institude of Science and Technology (KAIST).
+- ME (Candidate) in Electrical Engineering,  
+  Korea Advanced institude of Science and Technology (KAIST)
 
-- BE in Electrical Engineering, Pohang University of Science and Technology (POSTECH), 2018.
+- BE in Electrical Engineering, 2018  
+  Pohang University of Science and Technology (POSTECH)
 
 ## Papers
 
