@@ -18,7 +18,7 @@ School of Electrical Engineering, KAIST.
 ## Education
 
 - ME in Electrical Engineering (Candidate)  
-  Korea Advanced institude of Science and Technology (KAIST)
+  Korea Advanced Institute of Science and Technology (KAIST)
 
 - BE in Electrical Engineering, 2018  
   Pohang University of Science and Technology (POSTECH)
@@ -50,9 +50,9 @@ School of Electrical Engineering, KAIST.
 
 ## Languages
 
-- 한국어 (모어, native)
+- 한국어 (모어) / Korean native speaker
 - English (good working knowledge)
-- 中文 (初學者, beginner)
+- 中文 (初學者) / Chinese Mandarin beginner
 
 ## Teaching Assistant
 
