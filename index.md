@@ -10,11 +10,8 @@ School of Electrical Engineering, KAIST.
 ## Interests
 
 - Signal Processing (Multi-channel Audio or Speech)
-
 - Deep Learning / Machine Learning
-
 - Python
-
 - Rust (Programming Language)
 
 
@@ -51,14 +48,20 @@ School of Electrical Engineering, KAIST.
   학부 설계과제로 Unity와 Arduino를 이용하여 가상현실에서 드럼을 연주할 수 있는 프로그램을 제작함. 팀에서 프로그래밍의 대부분을 맡음.  
   [Report]() | [Demo Video](https://youtu.be/QXyJwmr9mhQ)
 
+## Languages
+
+- 한국어 (모어, native)
+- English (good working knowledge)
+- 中文 (初學者, beginner)
+
 ## Teaching Assistant
 
 ### KAIST
 
-- Signals and Systems (EE202)  
+- **Signals and Systems** (EE202)  
   *2019 Spring*  
   The basic lecture of signal processing area
 
-- Electronics Design Lab (EE405)  
+- **Electronics Design Lab** (EE405)  
   *2018 Fall*  
   The practice of embedded system programming
