@@ -39,7 +39,7 @@ School of Electrical Engineering, KAIST.
 
 - **Music Boundary Detection using Fully Convolutional Neural Networks**  
   *May - July 2019*  
-  For the team projects in the lecture "Musical Applications of Machine Learning" of KAIST, My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
+  For the team projects in the lecture "Musical Applications of Machine Learning (GCT634)" of KAIST, My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
   [Report](/assets/music-boundary-detection-report.pdf) | 
   [GitHub Repo](https://github.com/Sytronik/music-boundary-detection)
 
@@ -50,7 +50,7 @@ School of Electrical Engineering, KAIST.
 
 - **Extracting Musical Rhythms from Repetitive Videos**  
   *March - May 2017*  
-  To choose rhythmically-matched music to the repetitive videos, I created a simple algorithm. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
+  For the project in the lecture "Digital Image Processing (EECE551)" of POSTECH, I created a simple algorithm as the first step to choose music that rhythmically matched to the repetitive videos. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
   [Report](/assets/extracting-musical-rhythms-report.pdf) | [Results (.zip)](/assets/extracting-musical-rhythms-results.zip)
 
 ## Languages
