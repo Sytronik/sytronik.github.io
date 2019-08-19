@@ -16,7 +16,7 @@ School of Electrical Engineering, KAIST.
 
 ## Papers
 
-### Conference Paper
+### Conference Papers
 
 - Jeongmin Liu, Byeongho Jo, Jung-Woo Choi, **Dereverberation Based on Deep Neural Networks with Directional Feature from Spherical Microphone Array Recordings**, in Proc. of the 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, September 9-13, 2019. *(accepted)*  
     
