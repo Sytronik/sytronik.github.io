@@ -14,15 +14,6 @@ School of Electrical Engineering, KAIST.
 - Python
 - Rust (Programming Language)
 
-
-## Education
-
-- M.S. Candidate in Electrical Engineering  
-  Korea Advanced Institute of Science and Technology (KAIST)
-
-- B.S. in Electrical Engineering, 2018  
-  Pohang University of Science and Technology (POSTECH)
-
 ## Papers
 
 ### Conference Paper
@@ -60,6 +51,14 @@ School of Electrical Engineering, KAIST.
 - **한국어** (모어) / Korean native speaker
 - **English** (good working knowledge)
 - **中文** (初學者) / Chinese Mandarin beginner
+
+## Education
+
+- M.S. Candidate in Electrical Engineering  
+  Korea Advanced Institute of Science and Technology (KAIST)
+
+- B.S. in Electrical Engineering, 2018  
+  Pohang University of Science and Technology (POSTECH)
 
 ## Teaching Assistant
 
