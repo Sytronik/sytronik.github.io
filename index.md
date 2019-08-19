@@ -51,7 +51,7 @@ School of Electrical Engineering, KAIST.
 - **Extracting Musical Rhythms from Repetitive Videos**  
   *March - May 2017*  
   For the project in the lecture "Digital Image Processing (EECE551)" of POSTECH, I created a simple algorithm as the first step to choose music that rhythmically matched to the repetitive videos. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
-  [Report](/assets/extracting-musical-rhythms-report.pdf) | [Results (.zip)](/assets/extracting-musical-rhythms-results.zip)
+  [Report](/assets/extracting-musical-report.pdf) | [Results (.zip)](/assets/extracting-musical-results.zip)
 
 ## Languages
 
