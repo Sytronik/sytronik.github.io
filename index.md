@@ -17,10 +17,10 @@ School of Electrical Engineering, KAIST.
 
 ## Education
 
-- ME in Electrical Engineering (Candidate)  
+- M.S. Candidate in Electrical Engineering  
   Korea Advanced Institute of Science and Technology (KAIST)
 
-- BE in Electrical Engineering, 2018  
+- B.S. in Electrical Engineering, 2018  
   Pohang University of Science and Technology (POSTECH)
 
 ## Papers
@@ -67,6 +67,6 @@ School of Electrical Engineering, KAIST.
   *2019 Spring*  
   The basic lecture of signal processing area
 
-- **Electronics Design Lab** (EE405)  
+- **Electronics Design Lab \<Robocam\>** (EE405)  
   *2018 Fall*  
   The practice of embedded system programming
