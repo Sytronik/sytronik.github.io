@@ -55,13 +55,13 @@ School of Electrical Engineering, KAIST.
 
 ## Languages
 
-- 한국어 (모어) / Korean native speaker
-- English (good working knowledge)
-- 中文 (初學者) / Chinese Mandarin beginner
+- **한국어** (모어) / Korean native speaker
+- **English** (good working knowledge)
+- **中文** (初學者) / Chinese Mandarin beginner
 
 ## Teaching Assistant
 
-### KAIST
+### Lectures in School of Electrical Engineering, KAIST
 
 - **Signals and Systems** (EE202)  
   *2019 Spring*  

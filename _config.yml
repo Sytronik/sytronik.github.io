@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: "Sytronik's Blog"
-description: "Blog about Machine Learning & Audio/Speech Signal Processing."
+description: "Blog about Audio / Speech Signal Processing and Machine Learning."
 logo: profile.jpg
 
 google_fonts: "Noto+Sans+KR|Noto+Sans+SC|Noto+Sans+TC|Noto+Sans+HK|Noto+Sans+JP"
