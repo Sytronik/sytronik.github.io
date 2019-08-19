@@ -28,6 +28,8 @@ School of Electrical Engineering, KAIST.
 ### Conference Paper
 
 - Jeongmin Liu, Byeongho Jo, Jung-Woo Choi, **Dereverberation Based on Deep Neural Networks with Directional Feature from Spherical Microphone Array Recordings**, in Proc. of the 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, September 9-13, 2019. *(accepted)*  
+    
+  In the paper, the authors propose a method that uses spatially-averaged acoustic intensity vector as an input feature of the DNN  in order to make the DNN perform speech dereverberation by considering spatial information.  
   [Paper](/assets/ICA2019.pdf) | [GitHub Repo](https://github.com/Sytronik/dereverberation-directional-feature)
 
 ## Projects
