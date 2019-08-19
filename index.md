@@ -1,6 +1,6 @@
 # About Sytronik
 
-Jeongmin Liu (유정민, 劉政旼)  
+**Jeongmin Liu (유정민, 劉政旼)**  
 M.S. Candidate, [Smart Sound Systems Laboratory](https://sound.kaist.ac.kr),  
 School of Electrical Engineering, KAIST.
 
@@ -34,20 +34,24 @@ School of Electrical Engineering, KAIST.
 
 - **End-to-end Multi-channel Speech Dereverberation** *(In Progress)*  
   *July 2019 - now*  
-  To research end-to-end speech dereverberation, I implemented speech denoising wavenet by PyTorch.  
+  To research end-to-end speech dereverberation, I firstly implemented speech denoising wavenet with PyTorch. I am researching better end-to-end speech dereverberation algorithm.  
   [GitHub Repo](https://github.com/Sytronik/denoising-wavenet-pytorch)
 
 - **Music Boundary Detection using Fully Convolutional Neural Networks**  
   *May - July 2019*  
-  For the team projects in the lecture "Musical Applications of Machine Learning" of KAIST, 
-  KAIST “머신러닝의 음악적 응용” 강의 프로젝트로, 음악 내의 서로 다른 테마를 갖는 여러 구간들 사이의 경계를 추정하는 DNN 모델을 제작함. 팀에서 DNN과 관련된 아이디어와 프로그래밍을 맡음.  
-  [Report]() | 
+  For the team projects in the lecture "Musical Applications of Machine Learning" of KAIST, My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
+  [Report](/assets/music-boundary-detection-report.pdf) | 
   [GitHub Repo](https://github.com/Sytronik/music-boundary-detection)
 
-- **가상현실 드럼**  
+- **VR Drum**  
   *2017*  
-  학부 설계과제로 Unity와 Arduino를 이용하여 가상현실에서 드럼을 연주할 수 있는 프로그램을 제작함. 팀에서 프로그래밍의 대부분을 맡음.  
-  [Report]() | [Demo Video](https://youtu.be/QXyJwmr9mhQ)
+  For the graduation project, my team created an application that lets people can play the drums in virtual reality. I was the main programmer in the project.  
+  [Report (Korean)](/assets/VR-drum-report-korean.pdf) | [Demo Video](https://youtu.be/QXyJwmr9mhQ)
+
+- **Extracting Musical Rhythms from Repetitive Videos**  
+  *March - May 2017*  
+  To choose rhythmically-matched music to the repetitive videos, I created a simple algorithm. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
+  [Report](/assets/extracting-musical-rhythms-report.pdf) | [Results (.zip)](/assets/extracting-musical-rhythms-results.zip)
 
 ## Languages
 
