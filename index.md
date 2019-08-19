@@ -4,7 +4,7 @@
 M.S. Candidate, [Smart Sound Systems Laboratory](https://sound.kaist.ac.kr),  
 School of Electrical Engineering, KAIST.
 
-**Email**: <sytronik@gmail.com>  
+**Email**: <sytronik210@gmail.com>  
 **GitHub**: <https://github.com/Sytronik>
 
 ## Interests
