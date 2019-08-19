@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: "Sytronik's Blog"
+show_downloads: "true"
 description: "Blog about Audio / Speech Signal Processing and Machine Learning."
 logo: profile.jpg
 
