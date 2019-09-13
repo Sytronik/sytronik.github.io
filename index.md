@@ -1,8 +1,7 @@
 # About Sytronik
 
 **Jeongmin Liu (유정민, 劉政旼)**  
-M.S. Candidate, [Smart Sound Systems Laboratory](https://sound.kaist.ac.kr),  
-School of Electrical Engineering, KAIST.
+M.S. Candidate of Electrical Engineering.
 
 <!-- **Email**: <sytronik210@gmail.com>   -->
 <!-- **GitHub**: <https://github.com/Sytronik> -->
@@ -18,7 +17,7 @@ School of Electrical Engineering, KAIST.
 
 ### Conference Papers
 
-- Jeongmin Liu, Byeongho Jo, Jung-Woo Choi, **Dereverberation Based on Deep Neural Networks with Directional Feature from Spherical Microphone Array Recordings**, in Proc. of the 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, September 9-13, 2019. *(accepted)*  
+- Jeongmin Liu, Byeongho Jo, Jung-Woo Choi, **Dereverberation Based on Deep Neural Networks with Directional Feature from Spherical Microphone Array Recordings**, in Proc. of the 23rd International Congress on Acoustics (ICA 2019), Aachen, Germany, September 9-13, 2019. 
     
   In the paper, the authors propose a method that uses spatially-averaged acoustic intensity vector as an input feature of the DNN  in order to make the DNN perform speech dereverberation by considering spatial information.  
   [Paper](/assets/ICA2019.pdf) | [GitHub Repo](https://github.com/Sytronik/dereverberation-directional-feature)
@@ -32,7 +31,7 @@ School of Electrical Engineering, KAIST.
 
 - **Music Boundary Detection using Fully Convolutional Neural Networks**  
   *May - July 2019*  
-  For the team projects in the lecture "Musical Applications of Machine Learning (GCT634)" of KAIST, My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
+  For the team projects in the lecture "Musical Applications of Machine Learning", My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
   [Report](/assets/music-boundary-detection-report.pdf) | 
   [GitHub Repo](https://github.com/Sytronik/music-boundary-detection)
 
@@ -43,7 +42,7 @@ School of Electrical Engineering, KAIST.
 
 - **Extracting Musical Rhythms from Repetitive Videos**  
   *March - May 2017*  
-  For the project in the lecture "Digital Image Processing (EECE551)" of POSTECH, I created a simple algorithm as the first step to choose music that rhythmically matched to the repetitive videos. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
+  For the project in the lecture "Digital Image Processing", I created a simple algorithm as the first step to choose music that rhythmically matched to the repetitive videos. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
   [Report](/assets/extracting-musical-report.pdf) | [Results (.zip)](/assets/extracting-musical-results.zip)
 
 ## Languages
@@ -51,23 +50,3 @@ School of Electrical Engineering, KAIST.
 - **한국어** (모어) / Korean native speaker
 - **English** (good working knowledge)
 - **中文** (初學者) / Chinese Mandarin beginner
-
-## Education
-
-- M.S. Candidate in Electrical Engineering  
-  Korea Advanced Institute of Science and Technology (KAIST)
-
-- B.S. in Electrical Engineering, 2018  
-  Pohang University of Science and Technology (POSTECH)
-
-## Teaching Assistant
-
-### Lectures in School of Electrical Engineering, KAIST
-
-- **Signals and Systems** (EE202)  
-  *2019 Spring*  
-  The basic lecture of signal processing area
-
-- **Electronics Design Lab \<Robocam\>** (EE405)  
-  *2018 Fall*  
-  The practice of embedded system programming
