@@ -1,14 +1,14 @@
 # About Sytronik
 
 **Jeongmin Liu (유정민, 劉政旼)**  
-M.S. Candidate of Electrical Engineering.
+Research Engineer in Clova Voice team, Naver Corp & Line Corp.
 
 <!-- **Email**: <sytronik210@gmail.com>   -->
 <!-- **GitHub**: <https://github.com/Sytronik> -->
 
 ## Interests
 
-- Signal Processing (Multi-channel Audio or Speech)
+- Signal Processing (Audio / Speech)
 - Deep Learning / Machine Learning
 - Python
 - Rust (Programming Language)
