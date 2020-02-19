@@ -24,11 +24,6 @@ Research Engineer in Clova Voice team, Naver Corp & Line Corp.
 
 ## Projects
 
-- **End-to-end Multi-channel Speech Dereverberation** *(In Progress)*  
-  *July 2019 - now*  
-  To research end-to-end speech dereverberation, I firstly implemented speech denoising wavenet with PyTorch. I am researching better end-to-end speech dereverberation algorithm.  
-  [GitHub Repo](https://github.com/Sytronik/denoising-wavenet-pytorch)
-
 - **Music Boundary Detection using Fully Convolutional Neural Networks**  
   *May - July 2019*  
   For the team projects in the lecture "Musical Applications of Machine Learning", My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
