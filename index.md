@@ -2,6 +2,7 @@
 
 **Jeongmin Liu (유정민, 劉政旼)**  
 Research Engineer in Clova Voice team, Naver Corp & Line Corp.
+I develop an end-to-end speech synthesis system with my team.
 
 <!-- **Email**: <sytronik210@gmail.com>   -->
 <!-- **GitHub**: <https://github.com/Sytronik> -->
