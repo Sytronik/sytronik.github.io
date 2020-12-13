@@ -1,8 +1,8 @@
 # About Sytronik
 
 **Jeongmin Liu (유정민, 劉政旼)**  
-Research Engineer in Clova Voice team, Naver Corp & Line Corp.  
-I develop an end-to-end speech synthesis system with my team.
+ML Engineer in NES, Clova, Naver Corp.  
+I research and develop an end-to-end speech synthesis system with my team.
 
 <!-- **Email**: <sytronik210@gmail.com>   -->
 <!-- **GitHub**: <https://github.com/Sytronik> -->
@@ -24,6 +24,11 @@ I develop an end-to-end speech synthesis system with my team.
   [Paper](/assets/ICA2019.pdf) | [GitHub Repo](https://github.com/Sytronik/dereverberation-directional-feature)
 
 ## Projects
+
+- **Thesia: Multi-track Spectrogram / Waveform Viewer**
+  *November 2020 - Present*
+  An open-source project. Electron app w/ Rust & WebAssembly.
+  [GitHub Repo](https://github.com/Sytronik/thesia)
 
 - **Music Boundary Detection using Fully Convolutional Neural Networks**  
   *May - July 2019*  
