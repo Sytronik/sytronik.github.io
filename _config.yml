@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: "Sytronik's Blog"
 show_downloads: "true"
 description: "Blog about Audio / Speech Signal Processing and Machine Learning."
-logo: profile.jpg
+logo: profile.png
 
 google_fonts: "Noto+Sans+KR|Noto+Sans+SC|Noto+Sans+TC|Noto+Sans+HK|Noto+Sans+JP"
