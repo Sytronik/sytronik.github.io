@@ -25,9 +25,9 @@ I research and develop an end-to-end speech synthesis system with my team.
 
 ## Projects
 
-- **Thesia: Multi-track Spectrogram / Waveform Viewer** 
-  *November 2020 - Present* 
-  An open-source project. Electron app w/ Rust & WebAssembly. 
+- **Thesia: Multi-track Spectrogram / Waveform Viewer**  
+  *November 2020 - Present*  
+  An open-source project. Electron app w/ Rust & WebAssembly.  
   [GitHub Repo](https://github.com/Sytronik/thesia)
 
 - **Music Boundary Detection using Fully Convolutional Neural Networks**  
