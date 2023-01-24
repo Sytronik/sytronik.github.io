@@ -1,7 +1,7 @@
 # About Sytronik
 
 **Jeongmin Liu (유정민, 劉政旼)**  
-AI/ML Engineer in Voice model, AI Tech, Naver Cloud Corp.
+AI/ML Engineer in Voice model, AI Tech, Naver Cloud Corp.  
 I research and develop an end-to-end speech synthesis system and a speech enhancement system with my team.
 
 <!-- **Email**: <sytronik210@gmail.com>   -->
@@ -18,15 +18,15 @@ I research and develop an end-to-end speech synthesis system and a speech enhanc
 
 - **Thesia: Multi-track Spectrogram / Waveform Viewer**  
   *Nov 2020 - now*  
-  An open-source GUI app that shows multi-track spectrograms and waveform envelopes.
+  An open-source GUI app that shows multi-track spectrograms and waveform envelopes  
   [GitHub Repo](https://github.com/Sytronik/thesia)
-- **pYIN-rs**
-  *Apr 2022*
-  A Rust version of pYIN algorithm, one of pitch detection algorithms
+- **pYIN-rs**  
+  *Apr 2022*  
+  A Rust version of pYIN algorithm, one of pitch detection algorithms  
   [GitHub repo](https://github.com/Sytronik/pyin-rs)
-- **Deep Griffin-Lim Iteration**
-  *Sep 2019 - Oct 2019*
-  An implementation of a paper "Deep Griffin-Lim Iteration"
+- **Deep Griffin-Lim Iteration**  
+  *Sep 2019 - Oct 2019*  
+  An implementation of a paper "Deep Griffin-Lim Iteration"  
   [GitHub repo](https://github.com/Sytronik/deep-griffinlim-iteration)
 
 ## Papers
