@@ -1,8 +1,8 @@
 # About Sytronik
 
 **Jeongmin Liu (유정민, 劉政旼)**  
-ML Engineer in NES, Clova, Naver Corp.  
-I research and develop an end-to-end speech synthesis system with my team.
+AI/ML Engineer in Voice model, AI Tech, Naver Cloud Corp.
+I research and develop an end-to-end speech synthesis system and a speech enhancement system with my team.
 
 <!-- **Email**: <sytronik210@gmail.com>   -->
 <!-- **GitHub**: <https://github.com/Sytronik> -->
@@ -11,31 +11,23 @@ I research and develop an end-to-end speech synthesis system with my team.
 
 - Signal Processing (Audio / Speech)
 - Deep Learning / Machine Learning
-- Python
-- Rust (Programming Language)
+- Python (PyTorch, Fast-API, ...)
+- Rust Language
 
 ## Projects
 
 - **Thesia: Multi-track Spectrogram / Waveform Viewer**  
-  *November 2020 - Present*  
-  An open-source project. Electron app w/ Rust & WebAssembly.  
+  *Nov 2020 - now*  
+  An open-source GUI app that shows multi-track spectrograms and waveform envelopes.
   [GitHub Repo](https://github.com/Sytronik/thesia)
-
-- **Music Boundary Detection using Fully Convolutional Neural Networks**  
-  *May - July 2019*  
-  For the team projects in the lecture "Musical Applications of Machine Learning", My team made the DNN model that detects boundaries between musical sections, which have different musical themes. I contributed to the DNN model structure and training techniques, and I implemented them.  
-  [Report](/assets/music-boundary-detection-report.pdf) | 
-  [GitHub Repo](https://github.com/Sytronik/music-boundary-detection)
-
-- **VR Drum**  
-  *2017*  
-  For the graduation project, my team created an application that lets people can play the drums in virtual reality. I was the main programmer in the project.  
-  [Report (Korean)](/assets/VR-drum-report-korean.pdf) | [Demo Video](https://youtu.be/QXyJwmr9mhQ)
-
-- **Extracting Musical Rhythms from Repetitive Videos**  
-  *March - May 2017*  
-  For the project in the lecture "Digital Image Processing", I created a simple algorithm as the first step to choose music that rhythmically matched to the repetitive videos. The algorithm extracts a rough temporal regularity from repetitive videos, approximates the regularity to a typical 4/4 rhythm, and inserts a simple rhythm instrument pattern.  
-  [Report](/assets/extracting-musical-report.pdf) | [Results (.zip)](/assets/extracting-musical-results.zip)
+- **pYIN-rs**
+  *Apr 2022*
+  A Rust version of pYIN algorithm, one of pitch detection algorithms
+  [GitHub repo](https://github.com/Sytronik/pyin-rs)
+- **Deep Griffin-Lim Iteration**
+  *Sep 2019 - Oct 2019*
+  An implementation of a paper "Deep Griffin-Lim Iteration"
+  [GitHub repo](https://github.com/Sytronik/deep-griffinlim-iteration)
 
 ## Papers
 
